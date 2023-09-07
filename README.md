@@ -6,7 +6,7 @@ Tested on Moodle 4.
 
 **Change Log**
 
-*current version*
+2023090700
 - Fixed a missing end tag in the template.
 
 2023090600
